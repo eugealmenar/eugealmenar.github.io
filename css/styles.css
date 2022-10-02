@@ -70,5 +70,6 @@
   }
   
   .pie {
-    background-color: #1c445a;
+    background: rgb(21,52,69);
+    background: linear-gradient(90deg, rgba(21,52,69,1) 0%, rgba(17,48,65,1) 19%, rgba(31,85,115,1) 100%);
   }
